@@ -1,0 +1,83 @@
+		.container h1{
+			font-size: 50px;
+			font-weight: bold;
+			text-shadow: 5px 5px 5px gray;
+			text-align: center;
+		}
+		.products {
+		    border: 1px solid #333;
+		    background-color: #FFFFFF;
+		    border-radius: 5px;
+		    padding: 16px;
+		    margin-bottom: 10px;
+		    background-attachment: auto;
+		    margin-top: 30px;
+		    box-shadow: 5px 5px 5px gray;
+		}
+		.products:hover{
+			cursor: pointer;
+			transform: scale(1.1);
+			 box-shadow: 7px 7px 7px gray;
+		}
+		.table{
+
+		    margin: 0px auto;
+		    float: none;
+
+		}
+		.row{
+		    margin: 0px auto;
+		    float: none;
+		}
+		.centered{
+		    float: none;
+		    margin: 0 auto;
+		}
+		.button{
+		    background: #6394f8;
+		    color: white;
+		    text-align: center;
+		    padding: 12px;
+		    text-decoration: none;
+		    display: block;
+		    border-radius: 3px;
+		    font-size: 16px;
+		    margin: 25px 0 15px 0;
+		   
+
+		}
+		.button:visited{
+		    text-decoration: none;
+		    color: white;
+
+		}
+		.button:hover{
+		    background: #7fa9ff;
+		    text-decoration: none;
+		    color: white;
+
+		}
+		.button:active{
+		    text-decoration: none;
+		    color: white;
+
+		}
+		.btn-danger{
+		    font-size: 12px;
+		    padding: 3px;
+		}
+		.btn-danger:hover{
+		    text-decoration: none;
+		}
+		a{
+		    text-decoration: none;
+		}
+		a:hover{
+		    text-decoration: none;
+		}
+		h3{
+		    margin-top: 0px;
+		    color: white;
+		}
+
+

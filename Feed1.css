@@ -1,0 +1,139 @@
+nav{
+	width: 100%
+	background:#262626;
+	height: auto;
+	position: sticky;	
+}
+.sticky {
+	background-color: #b2994c;
+	position: sticky;
+	top: 0;
+}
+
+
+
+ #Section1 p{
+    font-size: 30px;
+    color: white;
+    margin-left: 330px;
+    padding-bottom: 50px;
+    font-weight: bold;
+
+}
+
+/*------------ SECTION 5------------ */
+
+#Section5{
+	width: 100%;
+	height: 940px;
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	background:  #FBFFD5;
+
+}
+
+.table1 {
+	margin-top: 40px;
+}
+
+#arrow {
+	width: 50px;
+	height: 50px;
+	cursor: pointer;
+}
+
+#sample1 {
+	width: 500px;
+	height: 400px;
+	margin: 0px 70px;
+}
+
+.checked {
+	color: orange;
+}
+
+#star {
+	font-size: 30px;
+	text-align: center;
+}
+
+.special h1 {
+	margin: 0;
+	padding: 0;
+}
+
+.special img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	box-shadow: 5px 5px 5px gray;
+ 	border: 4px solid white;
+}
+.special img:hover {
+	transform: scale(1.1);
+	cursor: pointer;
+	box-shadow: 8px 8px 8px gray;
+}
+
+.special h4 {
+	margin: 0;
+	padding: 0;
+}
+
+.special p {
+	margin: 0;
+	font-size: 15px;
+}
+
+.special td {
+	padding: 20px;
+}
+
+.ratings td {
+	padding-right: 50px;
+}
+
+.ratings h1 {
+	font-size: 30px;
+	box-sizing: border-box;
+	border: 2px solid black;
+	background-color: #f1f1f1;
+	box-shadow: 8px 8px 8px gray;
+	padding: 50px;
+	margin: 0;
+}
+
+.ratings span {
+	font-size: 15px;
+	font-weight: bold;
+
+}
+
+.ratings input {
+	width: 300px;
+	height: 30px;
+	font-size: 15px;
+}
+
+.ratings textarea {
+	width: 302px;
+	height: 150px;
+	resize: none;
+	font-size: 15px;
+}
+
+#ratings {
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.ratings button {
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	cursor: pointer;
+}

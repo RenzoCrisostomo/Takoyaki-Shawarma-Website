@@ -1,0 +1,243 @@
+
+/* Profile*/
+
+#Section3{
+	width: 100%;
+	height: 1400px;
+
+}
+#Section3 .renzo{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 120px;
+	background-color: #EDEDED;
+	box-shadow: 8px 8px 8px black;
+}
+.renzo img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.renzo h4{
+	margin-left: 20px;
+}
+.renzo p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.renzo h2{
+	margin-left: 120px;
+}
+.renzo .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+
+#Section3 .go{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 460px;
+	margin-top: -570px;
+	background-color: #EDEDED;
+	box-shadow: 8px 8px 8px black;
+}
+.go img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.go h4{
+	margin-left: 75px;
+}
+.go p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.go h2{
+	margin-left: 120px;
+	margin-top: 40px;
+}
+.go .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+#Section3 .denver{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 800px;
+	margin-top: -572px;
+	background-color: #EDEDED;
+	box-shadow: 8px 8px 8px black;
+}
+.denver img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.denver h4{
+	margin-left: 65px;
+}
+.denver p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.denver h3{
+	margin-left: 65px;
+	margin-top: 50px;
+}
+.denver .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+#Section3 .guevs{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 120px;
+	margin-top: 30px;
+	background-color: #EDEDED;
+	box-shadow: 8px 8px 8px black;
+}
+.guevs img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.guevs h4{
+	margin-left: 40px;
+}
+.guevs p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.guevs h3{
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.guevs .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+#Section3 .dict{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 460px;
+	margin-top: -572px;
+	background-color: #EDEDED;
+}
+.dict img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.dict h4{
+	margin-left: 70px;
+}
+.dict p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.dict h3{
+	margin-left: 70px;
+}
+.dict .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+#Section3 .ven{
+	border: 1px solid black;
+	width: 300px;
+	height: 570px;
+	border-radius:10px;
+	margin-left: 800px;
+	margin-top: -572px;
+	background-color: #EDEDED;
+		box-shadow: 8px 8px 8px black;
+}
+.ven img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border:  2px solid black;
+	border-radius: 100%;
+}
+.ven h4{
+	margin-left: 80px;
+}
+.ven p{
+	width: 270px;
+	margin-left: 12px;
+	text-align: center;
+}
+.ven h2{
+	margin-left: 120px;
+	margin-top: 30px;
+}
+.ven .pi1{
+	border-radius: 0px;
+	border: 0px solid white;
+	width: 120px;
+	height: 80px;
+	margin-top: -30px;
+	margin-left: 85px;
+}
+
+
+
+
+
